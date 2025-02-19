@@ -1,0 +1,2 @@
+# flutter_bili
+这是一个使用flutter开发的仿哔哩哔哩的跨平台app
